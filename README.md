@@ -17,7 +17,7 @@
 项目 iDSP1.0(互联网广告需求方平台)
 技术总结：
 1,项目架构
-项目采用的Clojure作为主要开发语言，用HttpKit库搭建服务端基础架构，用ruby作为项目自动化部署维护工具，用SNV做版本管理,据库采用的MySQL，前端技术主要用到JavaScript和jQuery。
+项目采用的Clojure作为主要开发语言，用HttpKit库搭建服务端基础架构，用ruby作为项目自动化部署维护工具，用SVN做版本管理,据库采用的MySQL，前端技术主要用到JavaScript和jQuery。
 2,负责模块
 负责维护项目,并继续开发新功能
 ```
@@ -25,7 +25,7 @@
 项目 iDSP2.0(改版)
 技术总结：
 1,项目架构
-项目采用的java8作为主要开发语言，用spring boot搭建服务端，用ruby作为项目自动化部署维护工具，用SNV做版本管理,据库采用的MySQL，前端技术主要用到 JavaScript , Bootstrap , AngularJS。
+项目采用的java8作为主要开发语言，用spring boot搭建服务端，用ruby作为项目自动化部署维护工具，用SVN做版本管理,据库采用的MySQL，前端技术主要用到 JavaScript , Bootstrap , AngularJS。
 2,负责模块
 主力开发
 ```
